@@ -2,6 +2,8 @@
 <a href="https://github.com/yargs/yargs" rel="nofollow"> <img src="http://yargs.js.org/images/yargs-laptop-hexagon.png" alt="yargs" width="70" height="70" style="max-width: 100%;"> </a> &nbsp;&nbsp;
 <a href="https://www.json.org/json-en.html" rel="nofollow"> <img src="https://user-images.githubusercontent.com/30849109/158279646-b4e74ed5-fd76-4652-a141-34e3af9e4dfb.png" alt="JSON" width="70" height="70" style="max-width: 100%;"> </a> &nbsp;&nbsp;
 
+* * *  
+                                                      Spanish Version
 # App que lista tareas pendientes
 
 ### Esta es una aplicación básica de línea de comandos realizada en NodeJS
@@ -16,7 +18,7 @@
 - *borrar*
 
 * * *  
-                                                      English Mode 
+                                                      English Version 
 
 # App to list pending tasks
 
